@@ -153,10 +153,8 @@ skfinal-flist.txt ~ E:\WIS\user\user\textures/signking/skfrtsgn7.m32 : not exist
 snqpctf2-flist.txt ~ E:\WIS\user\user\textures/unnamed.m32 : not exist
 sofdarkzone-flist.txt ~ E:\WIS\user\user\sound/sofdm6/shotsdistant2.wav : not exist
 sr14-flist.txt ~ E:\WIS\user\user\textures/e1u1/clip.m32 : not exist
-stadium1-flist.txt ~ E:\WIS\user\user\pics/sky/null.txttextures/sky/null.m32 : not exist
 sudctf3-flist.txt ~ E:\WIS\user\user\textures/uganda/1_trim2.m32 : not exist
 the_ice_rink-flist.txt ~ E:\WIS\user\user\sound//weapons/rocket/bigexplode.wav : not exist
-tk_stadium-flist.txt ~ E:\WIS\user\user\pics/sky/null.txttextures/sky/null.m32 : not exist
 tos_canyon-flist.txt ~ E:\WIS\user\user\sound//ambient/gen/comp/hum.wav : not exist
 tos_canyon-flist.txt ~ E:\WIS\user\user\sound//ambient/gen/electric/spark2.wav : not exist
 tos_canyon-flist.txt ~ E:\WIS\user\user\sound//ambient/gen/wtrfx/poollp.wav : not exist
