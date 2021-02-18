@@ -1,3 +1,6 @@
+added sound/sound/ folder
+bomb_old_town-flist.txt ~ E:\WIS\user\user\sound//sound/ambient/genmach/conveylp.wav : not exist
+
 acid_dreams-flist.txt ~ E:\WIS\user\user\sound/acid1.wav : not exist
 aim-practice-final-flist.txt ~ E:\WIS\user\user\sound//dm/assassin/killtarget.wav : not exist
 aim-practice-final-flist.txt ~ E:\WIS\user\user\sound//impact/glassbreak/gbmed.wav : not exist
@@ -27,7 +30,7 @@ beas_palace-flist.txt ~ E:\WIS\user\user\sound//impact/explosion/big.wav : not e
 beas_palace-flist.txt ~ E:\WIS\user\user\sound/paparazzi.wav : not exist
 bomb_mcdo-flist.txt ~ E:\WIS\user\user\sound/sound/ambient/gen/electric/spark1.wav : not exist
 bomb_mcdo-flist.txt ~ E:\WIS\user\user\sound/sound/ambient/gen/electric/spark2.wav : not exist
-bomb_old_town-flist.txt ~ E:\WIS\user\user\sound//sound/ambient/genmach/conveylp.wav : not exist
+
 brd_afghan_final-flist.txt ~ E:\WIS\user\user\sound//impact/explosion/big.wav : not exist
 brd_newcity_b1-flist.txt ~ E:\WIS\user\user\sound//brd/mntking.wav : not exist
 bronx-flist.txt ~ E:\WIS\user\user\sound/ambient/gen/wtrfx/bronx.wav : not exist
