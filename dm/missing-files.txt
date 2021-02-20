@@ -103,12 +103,7 @@ jb_jail-flist.txt ~ E:\WIS\user\user\sound/sound/ambient/gen/airgas/steamrls.wav
 jb_jail-flist.txt ~ E:\WIS\user\user\sound/sound/ambient/gen/electric/buzz.wav : not exist
 jb_jail-flist.txt ~ E:\WIS\user\user\sound/sound/ambient/gen/electric/spark1.wav : not exist
 just4fun-flist.txt ~ E:\WIS\user\user\sound/turbo/rajump.wav : not exist
-kosctf1-flist.txt ~ E:\WIS\user\user\textures/bosnia/alpha.m32 : not exist
-kosctf1-flist.txt ~ E:\WIS\user\user\textures/bosnia/ctfb_base.m32 : not exist
-kosctf1-flist.txt ~ E:\WIS\user\user\textures/bosnia/light_blue1.m32 : not exist
-kosctf1-flist.txt ~ E:\WIS\user\user\textures/bosnia/light_florescent.m32 : not exist
-kosctf1-flist.txt ~ E:\WIS\user\user\textures/bosnia/metal_smooth.m32 : not exist
-kosctf1-flist.txt ~ E:\WIS\user\user\textures/bosnia/window2.m32 : not exist
+
 loc_d-day_ctf-flist.txt ~ E:\WIS\user\user\sound/loc/bomb.wav : not exist
 loc_d-day_ctf-flist.txt ~ E:\WIS\user\user\sound/loc/planelow.wav : not exist
 loc_d-day_ctf-flist.txt ~ E:\WIS\user\user\sound/loc/radio.wav : not exist
