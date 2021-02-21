@@ -4,8 +4,7 @@ bomb_old_town-flist.txt ~ E:\WIS\user\user\sound//sound/ambient/genmach/conveylp
 acid_dreams-flist.txt ~ E:\WIS\user\user\sound/acid1.wav : not exist
 aim-practice-final-flist.txt ~ E:\WIS\user\user\sound//dm/assassin/killtarget.wav : not exist
 aim-practice-final-flist.txt ~ E:\WIS\user\user\sound//impact/glassbreak/gbmed.wav : not exist
-aim_practice2-flist.txt ~ E:\WIS\user\user\sound//dm/assassin/killtarget.wav : not exist
-aim_practice2-flist.txt ~ E:\WIS\user\user\sound//impact/glassbreak/gbmed.wav : not exist
+
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/boil.wav : not exist
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/horny.wav : not exist
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/snipe_cd.wav : not exist
@@ -21,6 +20,10 @@ awake-flist.txt ~ E:\WIS\user\user\textures/tokyo/1_kitchb.m32 : not exist
 awake-flist.txt ~ E:\WIS\user\user\textures/tokyo/1_sidewa.m32 : not exist
 awake-flist.txt ~ E:\WIS\user\user\textures/uganda/3_big_pi.m32 : not exist
 awake-flist.txt ~ E:\WIS\user\user\textures/uganda/3_catwal.m32 : not exist
+
+
+
+
 bc_q2dm1-flist.txt ~ E:\WIS\user\user\none.m32 : not exist
 bc_slaughter_house-flist.txt ~ E:\WIS\user\user\sound/ambient\locs\pipes\bigpipe.wav : not exist
 bc_supply_base101-flist.txt ~ E:\WIS\user\user\textures/subway/ogie.m32 : not exist
