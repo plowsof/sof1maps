@@ -66,10 +66,8 @@ coop_streets2_rdam-flist.txt ~ E:\WIS\user\user\sound/ambient/nature/wind/traffw
 coop_streets2_rdam-flist.txt ~ E:\WIS\user\user\sound/ambient/nature/wind/wndwail1.wav : not exist
 coop_streets2_rdam-flist.txt ~ E:\WIS\user\user\sound/ambient\gen\traffic\horn2.wav : not exist
 coop_streets2_rdam-flist.txt ~ E:\WIS\user\user\sound/ambient\gen\traffic\horn3.wav : not exist
-ctf_downtown_ger3(beta)-flist.txt ~ E:\WIS\user\user\sound/sound/ambient/gen/electric/spark1.wav : not exist
-ctf_downtown_ger3(beta2)-flist.txt ~ E:\WIS\user\user\sound/sound/ambient/gen/electric/spark1.wav : not exist
-ctf_downtown_ger3(beta3)-flist.txt ~ E:\WIS\user\user\sound/sound/ambient/gen/electric/spark1.wav : not exist
-ctf_downtown_ger3(beta4)-flist.txt ~ E:\WIS\user\user\sound/sound/ambient/gen/electric/spark1.wav : not exist
+
+
 dance-flist.txt ~ E:\WIS\user\user\sound/hamster-dance.wav : not exist
 
 Warning (from warnings module):
