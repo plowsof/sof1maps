@@ -29,9 +29,6 @@ bc_q2dm1-flist.txt ~ E:\WIS\user\user\none.m32 : not exist
 
 bc_supply_base101-flist.txt ~ E:\WIS\user\user\textures/subway/ogie.m32 : not exist
 
-bea's_palace-flist.txt ~ E:\WIS\user\user\sound/paparazzi.wav : not exist
-
-
 sound/world/quake.wav????? beas_palace
 
 
