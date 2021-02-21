@@ -32,12 +32,10 @@ bc_supply_base101-flist.txt ~ E:\WIS\user\user\textures/subway/ogie.m32 : not ex
 sound/world/quake.wav????? beas_palace
 
 
-bomb_mcdo-flist.txt ~ E:\WIS\user\user\sound/sound/ambient/gen/electric/spark1.wav : not exist
-bomb_mcdo-flist.txt ~ E:\WIS\user\user\sound/sound/ambient/gen/electric/spark2.wav : not exist
-
 brd_afghan_final-flist.txt ~ E:\WIS\user\user\sound//impact/explosion/big.wav : not exist
 brd_newcity_b1-flist.txt ~ E:\WIS\user\user\sound//brd/mntking.wav : not exist
-bronx-flist.txt ~ E:\WIS\user\user\sound/ambient/gen/wtrfx/bronx.wav : not exist
+
+
 bse_downtownsnipe-flist.txt ~ E:\WIS\user\user\textures/armory/2_oldwal.m32 : not exist
 bse_downtownsnipe-flist.txt ~ E:\WIS\user\user\textures/bse/bsejdr.m32 : not exist
 burn1down(blunt)-flist.txt ~ E:\WIS\user\user\sound/burn1down.wav : not exist
