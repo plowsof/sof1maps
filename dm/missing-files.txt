@@ -150,18 +150,9 @@ skfinal-flist.txt ~ E:\WIS\user\user\textures/signking/skfrtsgn5.m32 : not exist
 skfinal-flist.txt ~ E:\WIS\user\user\textures/signking/skfrtsgn6.m32 : not exist
 skfinal-flist.txt ~ E:\WIS\user\user\textures/signking/skfrtsgn7.m32 : not exist
 
-snqpctf2-flist.txt ~ E:\WIS\user\user\textures/unnamed.m32 : not exist
-
 sofdarkzone-flist.txt ~ E:\WIS\user\user\sound/sofdm6/shotsdistant2.wav : not exist
 sr14-flist.txt ~ E:\WIS\user\user\textures/e1u1/clip.m32 : not exist
-sudctf3-flist.txt ~ E:\WIS\user\user\textures/uganda/1_trim2.m32 : not exist
-the_ice_rink-flist.txt ~ E:\WIS\user\user\sound//weapons/rocket/bigexplode.wav : not exist
-tos_canyon-flist.txt ~ E:\WIS\user\user\sound//ambient/gen/comp/hum.wav : not exist
-tos_canyon-flist.txt ~ E:\WIS\user\user\sound//ambient/gen/electric/spark2.wav : not exist
-tos_canyon-flist.txt ~ E:\WIS\user\user\sound//ambient/gen/wtrfx/poollp.wav : not exist
-tos_canyon-flist.txt ~ E:\WIS\user\user\sound//ambient/nature/wind/wndsht2.wav : not exist
-tos_canyon-flist.txt ~ E:\WIS\user\user\sound//impact/explosion/big.wav : not exist
-tos_canyon-flist.txt ~ E:\WIS\user\user\sound/impact/explosion/exp2.wav : not exist
+
 tp_bt1-flist.txt ~ E:\WIS\user\user\textures/customsky/the-pirates_ft.m32 : not exist
 tp_bt1-flist.txt ~ E:\WIS\user\user\textures/customsky/the-pirates_up.m32 : not exist
 tp_bt1-flist.txt ~ E:\WIS\user\user\textures/customsky/the-pirates_dn.m32 : not exist
@@ -172,7 +163,9 @@ tp_ctf3-flist.txt ~ E:\WIS\user\user\textures/m32build/bliss_portrait.m32 : not 
 tp_ctf4-flist.txt ~ E:\WIS\user\user\textures/skull02.m32 : not exist
 tp_ctf4-flist.txt ~ E:\WIS\user\user\textures/tp_skull.m32 : not exist
 us-nba-flist.txt ~ E:\WIS\user\user\textures/logousskeleton.m32 : not exist
-vcarange-beta-flist.txt ~ E:\WIS\user\user\textures/unnamed.m32 : not exist
+
+
+
 wizardskeep-flist.txt ~ E:\WIS\user\user\textures/wizardskeep/rock4.m32 : not exist
 xxtremeraven-flist.txt ~ E:\WIS\user\user\textures/armory/357.m32 : not exist
 xxtremeraven-flist.txt ~ E:\WIS\user\user\textures/armory/buddha128x64.m32 : not exist
