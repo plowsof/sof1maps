@@ -30,7 +30,6 @@ bc_supply_base101-flist.txt ~ E:\WIS\user\user\textures/subway/ogie.m32 : not ex
 sound/world/quake.wav????? beas_palace
 
 
-brd_afghan_final-flist.txt ~ E:\WIS\user\user\sound//impact/explosion/big.wav : not exist
 brd_newcity_b1-flist.txt ~ E:\WIS\user\user\sound//brd/mntking.wav : not exist
 
 
