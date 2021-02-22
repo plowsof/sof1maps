@@ -2,8 +2,7 @@ added sound/sound/ folder
 bomb_old_town-flist.txt ~ E:\WIS\user\user\sound//sound/ambient/genmach/conveylp.wav : not exist
 
 acid_dreams-flist.txt ~ E:\WIS\user\user\sound/acid1.wav : not exist
-aim-practice-final-flist.txt ~ E:\WIS\user\user\sound//dm/assassin/killtarget.wav : not exist
-aim-practice-final-flist.txt ~ E:\WIS\user\user\sound//impact/glassbreak/gbmed.wav : not exist
+
 
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/boil.wav : not exist
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/horny.wav : not exist
