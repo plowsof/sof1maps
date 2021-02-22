@@ -29,41 +29,11 @@ bc_supply_base101-flist.txt ~ E:\WIS\user\user\textures/subway/ogie.m32 : not ex
 
 sound/world/quake.wav????? beas_palace
 
-
-brd_newcity_b1-flist.txt ~ E:\WIS\user\user\sound//brd/mntking.wav : not exist
-
-
 bse_downtownsnipe-flist.txt ~ E:\WIS\user\user\textures/armory/2_oldwal.m32 : not exist
 bse_downtownsnipe-flist.txt ~ E:\WIS\user\user\textures/bse/bsejdr.m32 : not exist
 
 
 burn1down(blunt)-flist.txt ~ E:\WIS\user\user\sound/burn1down.wav : not exist
-
-
-coop_frozen_track_sib2-flist.txt ~ E:\WIS\user\user\sound//ambient/gen/airgas/steamrls.wav : not exist
-coop_frozen_track_sib2-flist.txt ~ E:\WIS\user\user\sound//ambient/nature/wind/wndsnow.wav : not exist
-coop_pitia_house(beta3)-flist.txt ~ E:\WIS\user\user\sound/ambient/locs/crowd/clap1.wav : not exist
-coop_pitia_house(beta3)-flist.txt ~ E:\WIS\user\user\sound/ambient/locs/crowd/crowd1.wav : not exist
-coop_pitia_house(beta3)-flist.txt ~ E:\WIS\user\user\sound/ambient/locs/crowd/crowd2.wav : not exist
-coop_pitia_house(beta3)-flist.txt ~ E:\WIS\user\user\sound/ambient/locs/crowd/crowd3.wav : not exist
-coop_pitia_house(beta3)-flist.txt ~ E:\WIS\user\user\sound/ambient/locs/crowd/crowdlp.wav : not exist
-coop_pitia_house(beta3)-flist.txt ~ E:\WIS\user\user\sound/ambient/models/urinal/flush.wav : not exist
-coop_pitia_house-=final=--flist.txt ~ E:\WIS\user\user\sound/ambient/locs/crowd/clap1.wav : not exist
-coop_pitia_house-=final=--flist.txt ~ E:\WIS\user\user\sound/ambient/locs/crowd/crowd1.wav : not exist
-coop_pitia_house-=final=--flist.txt ~ E:\WIS\user\user\sound/ambient/locs/crowd/crowd2.wav : not exist
-coop_pitia_house-=final=--flist.txt ~ E:\WIS\user\user\sound/ambient/locs/crowd/crowd3.wav : not exist
-coop_pitia_house-=final=--flist.txt ~ E:\WIS\user\user\sound/ambient/locs/crowd/crowdlp.wav : not exist
-coop_pitia_house-=final=--flist.txt ~ E:\WIS\user\user\sound/ambient/models/urinal/flush.wav : not exist
-coop_pitia_house-=final=--flist.txt ~ E:\WIS\user\user\sound/cin/ger1/s47d4.wav : not exist
-coop_streets2_rdam-flist.txt ~ E:\WIS\user\user\sound/ambient/gen/airgas/stmlp.wav : not exist
-coop_streets2_rdam-flist.txt ~ E:\WIS\user\user\sound/ambient/gen/rumble/rumbsnowlong.wav : not exist
-coop_streets2_rdam-flist.txt ~ E:\WIS\user\user\sound/ambient/gen/traffic/horn2.wav : not exist
-coop_streets2_rdam-flist.txt ~ E:\WIS\user\user\sound/ambient/nature/fly/fly2.wav : not exist
-coop_streets2_rdam-flist.txt ~ E:\WIS\user\user\sound/ambient/nature/wind/traffwnd.wav : not exist
-coop_streets2_rdam-flist.txt ~ E:\WIS\user\user\sound/ambient/nature/wind/wndwail1.wav : not exist
-coop_streets2_rdam-flist.txt ~ E:\WIS\user\user\sound/ambient\gen\traffic\horn2.wav : not exist
-coop_streets2_rdam-flist.txt ~ E:\WIS\user\user\sound/ambient\gen\traffic\horn3.wav : not exist
-
 
 
 Warning (from warnings module):
