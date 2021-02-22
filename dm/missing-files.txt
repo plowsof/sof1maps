@@ -40,10 +40,10 @@ Warning (from warnings module):
   File "C:\Users\Human\AppData\Local\Programs\Python\Python38-32\lib\zipfile.py", line 1517
     return self._open_to_write(zinfo, force_zip64=force_zip64)
 UserWarning: Duplicate name: 'textures/customsky/oilrig_dn.m32'
+
 dt_half-life-flist.txt ~ E:\WIS\user\user\textures/!water2b.m32 : not exist
 dt_half-life-flist.txt ~ E:\WIS\user\user\textures/silo2_wet4c.m32 : not exist
-dust2004-flist.txt ~ E:\WIS\user\user\sound/d:/sof platinum/base/sound/dust/hopper2.wav : not exist
-dust2004-flist.txt ~ E:\WIS\user\user\sound/d:/sof platinum/base/sound/warmongr/eagle0.wav : not exist
+
 eb_egypt-flist.txt ~ E:\WIS\user\user\textures/pyramid.m32 : not exist
 es_pow-flist.txt ~ E:\WIS\user\user\sound/mymusic/birds3.wav : not exist
 es_pow-flist.txt ~ E:\WIS\user\user\sound/mymusic/fight.wav : not exist
@@ -52,8 +52,6 @@ flying09-flist.txt ~ E:\WIS\user\user\textures/rbac/amp.m32 : not exist
 gabestree-flist.txt ~ E:\WIS\user\user\textures/t_natural/arrow.m32 : not exist
 
 
-grenade_hood(beta7)-flist.txt ~ E:\WIS\user\user\sound//impact/explosion/big.wav : not exist
-
 haunted-flist.txt ~ E:\WIS\user\user\sound/ambient/gen/wtrfx/howsnack.wav : not exist
 haunted-flist.txt ~ E:\WIS\user\user\sound/ambient/gen/wtrfx/logic.wav : not exist
 
@@ -61,9 +59,6 @@ highlanders_metropolis-flist.txt ~ E:\WIS\user\user\sound/metropolis1.wav : not 
 hks_sniperchaos-flist.txt ~ E:\WIS\user\user\textures/hks/hksrules#3.m32 : not exist
 hks_sniperchaos-flist.txt ~ E:\WIS\user\user\textures/rbac/hks#1.m32 : not exist
 hks_sniperchaos-flist.txt ~ E:\WIS\user\user\textures/rbac/hks2.m32 : not exist
-host_mayhem-flist.txt ~ E:\WIS\user\user\sound/sound/ambient/gen/electric/spark1.wav : not exist
-host_mayhem-flist.txt ~ E:\WIS\user\user\sound/sound/ambient/gen/electric/spark2.wav : not exist
-
 
 just4fun-flist.txt ~ E:\WIS\user\user\sound/turbo/rajump.wav : not exist
 
