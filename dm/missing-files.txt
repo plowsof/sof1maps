@@ -170,5 +170,3 @@ wizardskeep-flist.txt ~ E:\WIS\user\user\textures/wizardskeep/rock4.m32 : not ex
 xxtremeraven-flist.txt ~ E:\WIS\user\user\textures/armory/357.m32 : not exist
 xxtremeraven-flist.txt ~ E:\WIS\user\user\textures/armory/buddha128x64.m32 : not exist
 [r&b]kickmasters_maze-flist.txt ~ E:\WIS\user\user\textures/sky/blood-sport512_dn.m32 : not exist
-[rdam]_country-flist.txt ~ E:\WIS\user\user\textures/bosnia/light_blue1.m32 : not exist
-[rdam]_d2map07-flist.txt ~ E:\WIS\user\user\textures/armory/1_black.m32.m32 : not exist
