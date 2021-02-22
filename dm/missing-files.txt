@@ -67,7 +67,6 @@ coop_streets2_rdam-flist.txt ~ E:\WIS\user\user\sound/ambient\gen\traffic\horn2.
 coop_streets2_rdam-flist.txt ~ E:\WIS\user\user\sound/ambient\gen\traffic\horn3.wav : not exist
 
 
-dance-flist.txt ~ E:\WIS\user\user\sound/hamster-dance.wav : not exist
 
 Warning (from warnings module):
   File "C:\Users\Human\AppData\Local\Programs\Python\Python38-32\lib\zipfile.py", line 1517
