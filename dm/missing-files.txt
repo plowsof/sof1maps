@@ -1,5 +1,3 @@
-added sound/sound/ folder
-bomb_old_town-flist.txt ~ E:\WIS\user\user\sound//sound/ambient/genmach/conveylp.wav : not exist
 
 acid_dreams-flist.txt ~ E:\WIS\user\user\sound/acid1.wav : not exist
 
@@ -7,6 +5,7 @@ acid_dreams-flist.txt ~ E:\WIS\user\user\sound/acid1.wav : not exist
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/boil.wav : not exist
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/horny.wav : not exist
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/snipe_cd.wav : not exist
+
 awake-flist.txt ~ E:\WIS\user\user\textures/bosnia/1_3_ceil.m32 : not exist
 awake-flist.txt ~ E:\WIS\user\user\textures/castle/hall_cei.m32 : not exist
 awake-flist.txt ~ E:\WIS\user\user\textures/iraq/2_3_mflo.m32 : not exist
