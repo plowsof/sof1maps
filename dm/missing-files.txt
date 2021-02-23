@@ -49,14 +49,6 @@ loc_d-day_ctf-flist.txt ~ E:\WIS\user\user\sound/loc/planelow.wav : not exist
 loc_d-day_ctf-flist.txt ~ E:\WIS\user\user\sound/loc/radio.wav : not exist
 loc_d-day_ctf-flist.txt ~ E:\WIS\user\user\sound/loc/shots.wav : not exist
 
-mpctf1b-flist.txt ~ E:\WIS\user\user\textures/subway/w_semiback2_d.m32 : not exist
-mpctf1b-flist.txt ~ E:\WIS\user\user\textures/subway/w_semiback3_d.m32 : not exist
-mpctf1b-flist.txt ~ E:\WIS\user\user\textures/subway/w_semiback_d.m32 : not exist
-mpctf1b-flist.txt ~ E:\WIS\user\user\textures/subway/w_semidown2.m32 : not exist
-mpctf1b-flist.txt ~ E:\WIS\user\user\textures/subway/w_semiside3_d.m32 : not exist
-mpctf1b-flist.txt ~ E:\WIS\user\user\textures/subway/w_semiside_d.m32 : not exist
-mpctf1b-flist.txt ~ E:\WIS\user\user\textures/subway/w_semitop2.m32 : not exist
-
 mw_missilebase-flist.txt ~ E:\WIS\user\user\sound/ambient/vox/vox.wav : not exist
 myctfbeta5-flist.txt ~ E:\WIS\user\user\sound/missle.wav : not exist
 myctfbeta5-flist.txt ~ E:\WIS\user\user\sound/war.wav : not exist
