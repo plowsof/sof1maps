@@ -1,12 +1,2 @@
-irqctf3.bsp ~ textures\iraq/1_designwallc_blue.m32 : not exist
-irqctf3.bsp ~ textures\iraq/1_designwallc_red.m32 : not exist
-irqctf3.bsp ~ textures\iraq/f_carpet_blue.m32 : not exist
-irqctf3.bsp ~ textures\iraq/f_carpet_blue_trim.m32 : not exist
-irqctf3.bsp ~ textures\iraq/f_ceil1_blue.m32 : not exist
-irqctf3.bsp ~ textures\iraq/f_ceil1_red.m32 : not exist
-irqctf3.bsp ~ textures\iraq/trim4_blue.m32 : not exist
-irqctf3.bsp ~ textures\iraq/trim4_red.m32 : not exist
-irqctf3.bsp ~ textures\iraq/trim5_blue.m32 : not exist
-irqctf3.bsp ~ textures\iraq/trim5_red.m32 : not exist
 rustctf1.bsp ~ sound\ambient/gen/wtrfx/gush.wav : not exist
 rustctf1.bsp ~ sound\ambient/gen/wtrfx/spraybig.wav : not exist
