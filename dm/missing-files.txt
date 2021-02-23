@@ -1,11 +1,7 @@
 
-acid_dreams-flist.txt ~ E:\WIS\user\user\sound/acid1.wav : not exist
-
-
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/boil.wav : not exist
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/horny.wav : not exist
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/snipe_cd.wav : not exist
-
 
 
 does not appear when connecting:
