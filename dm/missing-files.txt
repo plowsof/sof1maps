@@ -6,19 +6,6 @@ asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/boil.wav : not exist
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/horny.wav : not exist
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/snipe_cd.wav : not exist
 
-awake-flist.txt ~ E:\WIS\user\user\textures/bosnia/1_3_ceil.m32 : not exist
-awake-flist.txt ~ E:\WIS\user\user\textures/castle/hall_cei.m32 : not exist
-awake-flist.txt ~ E:\WIS\user\user\textures/iraq/2_3_mflo.m32 : not exist
-awake-flist.txt ~ E:\WIS\user\user\textures/iraq/2_bigdoo.m32 : not exist
-awake-flist.txt ~ E:\WIS\user\user\textures/iraq/3_flatwo.m32 : not exist
-awake-flist.txt ~ E:\WIS\user\user\textures/iraq/ctfb_cra.m32 : not exist
-awake-flist.txt ~ E:\WIS\user\user\textures/siberia/light_or.m32 : not exist
-awake-flist.txt ~ E:\WIS\user\user\textures/tokyo/1_baseme.m32 : not exist
-awake-flist.txt ~ E:\WIS\user\user\textures/tokyo/1_kitchb.m32 : not exist
-awake-flist.txt ~ E:\WIS\user\user\textures/tokyo/1_sidewa.m32 : not exist
-awake-flist.txt ~ E:\WIS\user\user\textures/uganda/3_big_pi.m32 : not exist
-awake-flist.txt ~ E:\WIS\user\user\textures/uganda/3_catwal.m32 : not exist
-
 
 
 does not appear when connecting:
