@@ -97,11 +97,6 @@ rb_egyptiansnipe-flist.txt ~ E:\WIS\user\user\textures/{nos}/face-rb3.m32 : not 
 rb_hotelhellsnipe-flist.txt ~ E:\WIS\user\user\textures/{nos}/dkl2ladder.m32 : not exist
 rb_hotelhellsnipe-flist.txt ~ E:\WIS\user\user\textures/{nos}/ladder.m32 : not exist
 
-
-rb_snipeforest-flist.txt ~ E:\WIS\user\user\sound/birds.wav : not exist
-rb_snipeforest-flist.txt ~ E:\WIS\user\user\sound/eagle.wav : not exist
-rb_snipeforest-flist.txt ~ E:\WIS\user\user\sound/forest.wav : not exist
-
 skfinal-flist.txt ~ E:\WIS\user\user\textures/signking/mnoffpc1.m32 : not exist
 skfinal-flist.txt ~ E:\WIS\user\user\textures/signking/skfrtsgn1.m32 : not exist
 skfinal-flist.txt ~ E:\WIS\user\user\textures/signking/skfrtsgn2.m32 : not exist
