@@ -15,9 +15,6 @@ bc_supply_base101-flist.txt ~ E:\WIS\user\user\textures/subway/ogie.m32 : not ex
 
 sound/world/quake.wav????? beas_palace
 
-bse_downtownsnipe-flist.txt ~ E:\WIS\user\user\textures/armory/2_oldwal.m32 : not exist
-bse_downtownsnipe-flist.txt ~ E:\WIS\user\user\textures/bse/bsejdr.m32 : not exist
-
 Warning (from warnings module):
   File "C:\Users\Human\AppData\Local\Programs\Python\Python38-32\lib\zipfile.py", line 1517
     return self._open_to_write(zinfo, force_zip64=force_zip64)
