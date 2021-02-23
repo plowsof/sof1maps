@@ -1,2 +1,3 @@
 [rdam]_pipelines_fix.bsp ~ sound\ambient/gen/airgas/stmlp.wav : not exist
-[rdam]_pipelines_fix.bsp ~ sound\misc/hlthstation/health.wav : not exist
+[rdam]_pipelines_fix.bsp ~ sound\misc/hlthstation/health.wav : not exist 
+these looks like default files... i just dont have them in my resource_dir :)
