@@ -1,0 +1,3 @@
+reach_deepgreen.bsp ~ sound\mymusic/cave.wav : not exist
+reach_pow.bsp ~ sound\mymusic/birds3.wav : not exist
+reach_scout.bsp ~ sound\mymusic/birds1.wav : not exist
