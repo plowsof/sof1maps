@@ -7,9 +7,6 @@ asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/snipe_cd.wav : not ex
 does not appear when connecting:
 bc_q2dm1-flist.txt ~ E:\WIS\user\user\none.m32 : not exist
 
-bc_supply_base101-flist.txt ~ E:\WIS\user\user\textures/subway/ogie.m32 : not exist
-firefight-flist.txt ~ E:\WIS\user\user\textures/subway/ogie.m32 : not exist
-
 sound/world/quake.wav????? beas_palace
 
 Warning (from warnings module):
@@ -30,7 +27,6 @@ gabestree-flist.txt ~ E:\WIS\user\user\textures/t_natural/arrow.m32 : not exist
 crash on launch, sound overflow(?)
 haunted-flist.txt ~ E:\WIS\user\user\sound/ambient/gen/wtrfx/howsnack.wav : not exist
 haunted-flist.txt ~ E:\WIS\user\user\sound/ambient/gen/wtrfx/logic.wav : not exist
-
 highlanders_metropolis-flist.txt ~ E:\WIS\user\user\sound/metropolis1.wav : not exist
 hks_sniperchaos-flist.txt ~ E:\WIS\user\user\textures/hks/hksrules#3.m32 : not exist
 hks_sniperchaos-flist.txt ~ E:\WIS\user\user\textures/rbac/hks#1.m32 : not exist
