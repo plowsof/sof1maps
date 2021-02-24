@@ -1,3 +1,9 @@
+rb_blacknblue-flist.txt ~ E:\WIS\user\user\textures/{nos}/dkl2platform.m32 : not exist
+rb_dizzy-flist.txt ~ E:\WIS\user\user\sound/wtf10.wav : not exist
+rb_egyptiansnipe-flist.txt ~ E:\WIS\user\user\textures/{nos}/face-rb3.m32 : not exist
+rb_hotelhellsnipe-flist.txt ~ E:\WIS\user\user\textures/{nos}/dkl2ladder.m32 : not exist
+rb_hotelhellsnipe-flist.txt ~ E:\WIS\user\user\textures/{nos}/ladder.m32 : not exist
+
 
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/boil.wav : not exist
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/horny.wav : not exist
@@ -8,11 +14,6 @@ does not appear when connecting:
 bc_q2dm1-flist.txt ~ E:\WIS\user\user\none.m32 : not exist
 
 sound/world/quake.wav????? beas_palace
-
-Warning (from warnings module):
-  File "C:\Users\Human\AppData\Local\Programs\Python\Python38-32\lib\zipfile.py", line 1517
-    return self._open_to_write(zinfo, force_zip64=force_zip64)
-UserWarning: Duplicate name: 'textures/customsky/oilrig_dn.m32'
 
 dt_half-life-flist.txt ~ E:\WIS\user\user\textures/!water2b.m32 : not exist
 dt_half-life-flist.txt ~ E:\WIS\user\user\textures/silo2_wet4c.m32 : not exist
@@ -55,11 +56,7 @@ nude2-flist.txt ~ E:\WIS\user\user\textures/larry/unknown1.m32 : not exist
 
 
 quick_kill-flist.txt ~ E:\WIS\user\user\textures/fx/fxlogo1.m32 : not exist
-rb_blacknblue-flist.txt ~ E:\WIS\user\user\textures/{nos}/dkl2platform.m32 : not exist
-rb_dizzy-flist.txt ~ E:\WIS\user\user\sound/wtf10.wav : not exist
-rb_egyptiansnipe-flist.txt ~ E:\WIS\user\user\textures/{nos}/face-rb3.m32 : not exist
-rb_hotelhellsnipe-flist.txt ~ E:\WIS\user\user\textures/{nos}/dkl2ladder.m32 : not exist
-rb_hotelhellsnipe-flist.txt ~ E:\WIS\user\user\textures/{nos}/ladder.m32 : not exist
+
 
 skfinal-flist.txt ~ E:\WIS\user\user\textures/signking/mnoffpc1.m32 : not exist
 skfinal-flist.txt ~ E:\WIS\user\user\textures/signking/skfrtsgn1.m32 : not exist
