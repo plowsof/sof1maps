@@ -8,6 +8,7 @@ does not appear when connecting:
 bc_q2dm1-flist.txt ~ E:\WIS\user\user\none.m32 : not exist
 
 bc_supply_base101-flist.txt ~ E:\WIS\user\user\textures/subway/ogie.m32 : not exist
+firefight-flist.txt ~ E:\WIS\user\user\textures/subway/ogie.m32 : not exist
 
 sound/world/quake.wav????? beas_palace
 
@@ -22,7 +23,7 @@ dt_half-life-flist.txt ~ E:\WIS\user\user\textures/silo2_wet4c.m32 : not exist
 eb_egypt-flist.txt ~ E:\WIS\user\user\textures/pyramid.m32 : not exist
 es_pow-flist.txt ~ E:\WIS\user\user\sound/mymusic/birds3.wav : not exist
 es_pow-flist.txt ~ E:\WIS\user\user\sound/mymusic/fight.wav : not exist
-firefight-flist.txt ~ E:\WIS\user\user\textures/subway/ogie.m32 : not exist
+
 flying09-flist.txt ~ E:\WIS\user\user\textures/rbac/amp.m32 : not exist
 gabestree-flist.txt ~ E:\WIS\user\user\textures/t_natural/arrow.m32 : not exist
 
