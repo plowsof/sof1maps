@@ -90,7 +90,7 @@ us-nba-flist.txt ~ E:\WIS\user\user\textures/logousskeleton.m32 : not exist
 
 
 This map should be in test/ as its incomplete
-wizardskeep-flist.txt ~ E:\WIS\user\user\textures/wizardskeep/rock4.m32 : not exist
+wizardskeep
 
 
 xxtremeraven-flist.txt ~ E:\WIS\user\user\textures/armory/357.m32 : not exist
