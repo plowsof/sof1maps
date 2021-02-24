@@ -3,6 +3,9 @@ rb_dizzy-flist.txt ~ E:\WIS\user\user\sound/wtf10.wav : not exist
 rb_egyptiansnipe-flist.txt ~ E:\WIS\user\user\textures/{nos}/face-rb3.m32 : not exist
 rb_hotelhellsnipe-flist.txt ~ E:\WIS\user\user\textures/{nos}/dkl2ladder.m32 : not exist
 rb_hotelhellsnipe-flist.txt ~ E:\WIS\user\user\textures/{nos}/ladder.m32 : not exist
+rb_snipeforest-flist.txt ~ sound/birds.wav
+rb_snipeforest-flist.txt ~ sound/forest.wav
+rb_snipeforest-flist.txt ~ sound/eagle.wav
 
 
 asgard-alpha1b-flist.txt ~ E:\WIS\user\user\sound/valhalla/boil.wav : not exist
