@@ -1,0 +1,36 @@
+name: Create Unzipped Branch
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+    
+    - name: Create unzipped branch
+      run: git checkout -b unzipped
+      
+    - name: Delete all files
+      run: rm -rf *
+      
+    - name: Create dummy.txt file
+      run: echo "This is a dummy file" > dummy.txt
+      
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Create unzipped branch with dummy.txt file"
+    
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        branch: unzipped
+        force: true
