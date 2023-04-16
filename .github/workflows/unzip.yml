@@ -1,36 +1,22 @@
-name: Create Unzipped Branch
+name: Extract and push zipped files
 
 on:
   push:
     branches:
-      - main
+      - unzipped
 
 jobs:
-  build:
+  extract_and_push:
     runs-on: ubuntu-latest
-    
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
-    
-    - name: Create unzipped branch
-      run: git checkout -b unzipped
-      
-    - name: Delete all files
-      run: rm -rf *
-      
-    - name: Create dummy.txt file
-      run: echo "This is a dummy file" > dummy.txt
-      
-    - name: Commit changes
+    - uses: actions/checkout@v3
+    - name: Extract zipped files
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "Create unzipped branch with dummy.txt file"
-    
-    - name: Push changes
+        find . -name "*.zip" -exec unzip -o -d . {} \;
+        rm -rf dm bt exp test server-sp-sounds user-server
+    - name: Push changes to unzipped branch
       uses: ad-m/github-push-action@master
       with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: unzipped
         force: true
