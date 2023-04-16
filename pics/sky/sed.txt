@@ -1,0 +1,6 @@
+textures/sky/ship_rt
+textures/sky/ship_bk
+textures/sky/ship_lf
+textures/sky/ship_ft
+textures/sky/ship_up
+textures/sky/ship_dn

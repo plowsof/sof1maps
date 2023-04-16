@@ -1,0 +1,7 @@
+textures/sky/pyramid_rt
+textures/sky/pyramid_bk
+textures/sky/pyramid_lf
+textures/sky/pyramid_ft
+textures/sky/pyramid_up
+textures/sky/pyramid_dn
+

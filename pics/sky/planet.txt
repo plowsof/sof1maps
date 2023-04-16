@@ -1,0 +1,6 @@
+textures/customsky/planetrt
+textures/customsky/planetbk
+textures/customsky/planetlf
+textures/customsky/planetfr
+textures/customsky/planetup
+textures/customsky/planetdn

@@ -1,0 +1,7 @@
+textures/sky/dt3_1
+textures/sky/dt3_2
+textures/sky/dt3_3
+textures/sky/dt3_4
+textures/sky/dt3_up
+textures/sky/dt3_dn
+

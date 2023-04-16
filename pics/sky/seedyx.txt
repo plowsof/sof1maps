@@ -1,0 +1,6 @@
+textures/sky/rt3
+textures/sky/bk3
+textures/sky/lf3
+textures/sky/ft3
+textures/sky/up3
+textures/sky/dn3

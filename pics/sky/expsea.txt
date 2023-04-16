@@ -1,0 +1,6 @@
+textures/exp_sky/sea_ft
+textures/exp_sky/sea_rt
+textures/exp_sky/sea_bk
+textures/exp_sky/sea_lt
+textures/exp_sky/sea_up
+textures/exp_sky/sea_dn

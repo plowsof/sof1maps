@@ -1,0 +1,7 @@
+textures/sky/aka_rt
+textures/sky/aka_bk
+textures/sky/aka_lf
+textures/sky/aka_fr
+textures/sky/aka_up
+textures/sky/aka_dn
+

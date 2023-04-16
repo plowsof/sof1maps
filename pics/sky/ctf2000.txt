@@ -1,0 +1,6 @@
+textures/ctf2000/sky
+textures/ctf2000/sky
+textures/ctf2000/sky
+textures/ctf2000/sky
+textures/ctf2000/sky
+textures/ctf2000/sky

@@ -1,0 +1,6 @@
+textures/sky/simpl_fr
+textures/sky/simpl_rt
+textures/sky/simpl_bk
+textures/sky/simpl_lf
+textures/sky/simpl_up
+textures/sky/simpl_dn

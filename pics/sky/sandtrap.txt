@@ -1,0 +1,7 @@
+textures/sky/sandtrap_rt
+textures/sky/sandtrap_bk
+textures/sky/sandtrap_lf
+textures/sky/sandtrap_ft
+textures/sky/sandtrap_up
+textures/sky/sandtrap_dn
+

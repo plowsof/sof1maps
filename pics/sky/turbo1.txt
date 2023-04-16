@@ -1,0 +1,7 @@
+textures/sky/turbo1rt
+textures/sky/turbo1bk
+textures/sky/turbo1lf
+textures/sky/turbo1ft
+textures/sky/turbo1up
+textures/sky/turbo1dn
+

@@ -1,0 +1,6 @@
+textures/sky/t_01
+textures/sky/t_04
+textures/sky/t_03
+textures/sky/t_02
+textures/sky/t_05
+textures/sky/t_06

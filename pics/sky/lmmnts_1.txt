@@ -1,0 +1,6 @@
+textures/customsky/lmmnts_1rt
+textures/customsky/lmmnts_1bk
+textures/customsky/lmmnts_1lf
+textures/customsky/lmmnts_1ft
+textures/customsky/lmmnts_1up
+textures/customsky/lmmnts_1dn

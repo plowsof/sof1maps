@@ -1,0 +1,6 @@
+textures/turbo/crlf
+textures/turbo/crlf
+textures/turbo/crlf
+textures/turbo/crlf
+textures/turbo/crdn
+textures/turbo/crup

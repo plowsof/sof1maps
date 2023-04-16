@@ -1,0 +1,454 @@
+#include "../common/header.ds"
+output "C:/sample/ds/test"
+
+
+
+local entity cam1
+local entity null1
+local entity wall1  //  blocker in entrance
+local entity toilet   // toilet door
+local entity man1
+local entity sneak  //  player
+local entity hench1
+local entity hench2
+local entity hench3
+local entity hench4
+local entity hench5
+local entity hench6
+local entity hench7
+local entity bitch  //  woman in toilet
+local entity corner2guy1  //  leaner 
+local entity corner2guy2  // roller
+local entity woohoo
+
+local entity guy1
+local entity guy2
+local entity guy3
+local entity guy4
+local entity guy5
+local entity guy6
+local entity guy7
+local entity guy8
+local entity guy9
+local entity guy10
+local entity guy11
+local entity guy12
+local entity guy13
+local entity guy14
+local entity guy15
+local entity guy16
+local entity guy17
+local entity guy18
+local entity guy19
+local int sig1
+
+cam1 = find entity with targetname "cam1"
+null1 = find entity with targetname "null1"
+wall1 = find entity with targetname "wall1"
+toilet = find entity with targetname "toilet"
+man1 = find entity with targetname "leaner"   //  1st shooter
+sneak = get entity activator
+hench1 = find entity with targetname "hench1"  //  1st guys in rest
+hench2 = find entity with targetname "hench2"  //  1st guys in rest
+hench3 = find entity with targetname "hench3"
+hench4 = find entity with targetname "hench4"
+hench5 = find entity with targetname "hench5"
+hench6 = find entity with targetname "hench6"  //  guys top stairs talking
+hench7 = find entity with targetname "hench7" //  guys top stairs talking
+corner2guy1 = find entity with targetname "corner2guy1"
+corner2guy2 = find entity with targetname "corner2guy2"
+bitch = find entity with targetname "bitch"
+woohoo = find entity with targetname "woohoo"
+
+
+cam1.movetype = MOVETYPE_NOCLIP
+null1.movetype = MOVETYPE_NOCLIP
+
+
+
+
+guy1 = find entity with targetname "guy1" //corridor guy
+guy2 = find entity with targetname "guy2"
+guy3 = find entity with targetname "guy3"  //walking civvy
+guy4 = find entity with targetname "guy4"  //toilet walker
+guy5 = find entity with targetname "guy5"  // left by the stage shooter
+guy6 = find entity with targetname "guy6"  //group1
+guy7 = find entity with targetname "guy7"  //group2
+guy8 = find entity with targetname "guy8"  //group3
+guy9 = find entity with targetname "guy9"  //dancer1
+guy10 = find entity with targetname "guy10" //dancer2
+guy11 = find entity with targetname "guy11"  //dancer3
+guy12 = find entity with targetname "guy12"  //dancer4
+guy13 = find entity with targetname "guy13"  //couple guy walker
+guy14 = find entity with targetname "guy14"  //couple girl walker
+guy15 = find entity with targetname "guy15"  //barman1
+guy16 = find entity with targetname "guy16" //corridor girl
+guy17 = find entity with targetname "guy17" //  1st corridor walker guy
+guy18 = find entity with targetname "guy18"  //barman2
+guy19 = find entity with targetname "guy19"  //  jumper
+
+
+
+
+
+use entity guy2
+use entity guy3
+use entity guy4
+use entity guy5
+use entity guy6
+use entity guy7
+use entity guy8
+use entity guy9
+use entity guy10
+use entity guy11
+use entity guy12
+use entity guy14
+
+use entity guy19
+
+use entity hench3
+use entity hench4
+use entity hench5
+use entity bitch
+
+
+
+
+
+
+
+
+
+
+use entity cam1
+// wait 0.5 seconds
+
+ 
+
+use entity guy1  
+use entity guy16 
+use entity guy17 
+
+use entity corner2guy1
+use entity corner2guy2
+
+play sound "kb/kb/rdam_twisted_nerve.wav" for entity cam1 at volume 1.0 // cam whistles
+
+move entity cam1 by [0,-150,0] at 70 speed signaling sig1 //  cam into doorway
+
+wait for all clearing sig1
+
+animate entity guy17 performing action WALK by moving [640,0,0]  // guy in corridor walks to camera
+
+
+move entity null1 by [-60,0,0] at 70 speed //turn corner 1
+
+move entity cam1 by [0,-78,0] at 70 speed signaling sig1 //  cam into doorway
+
+wait for all clearing sig1
+
+move entity null1 by [-610,0,0] at 200 speed //cont corner 1
+
+move entity cam1 by [-610,0,0] at 70 speed signaling sig1// cam down corridor
+
+wait for all clearing sig1
+
+remove entity guy1
+use entity guy13
+remove entity guy16
+remove entity guy17
+use entity hench1
+use entity hench2
+use entity guy15
+use entity guy18
+use entity hench6
+use entity hench7 
+
+move entity null1 by [0,-60,0] at 70 speed  //null turn corner 2 near cornerguys into restaurant
+
+move entity cam1 by [-60,0,0] at 70 speed signaling sig1// cam cont down corridor
+
+wait for all clearing sig1
+
+move entity null1 by [0,-1430,0] at 1200 speed // finishes move into restaurant at speed
+
+move entity cam1 by [0,-250,0] at 70 speed signaling sig1 // cam  reaches doorway
+
+wait for all clearing sig1
+
+
+play sound "kb/kb/rdam_twisted_nerve.wav" for entity cam1 at volume 1.0 // cam whistles again
+
+
+move entity null1 by [-350,0,0] at 50 speed //signaling sig1  // null moves toward bar
+//wait for all clearing sig1
+
+move entity cam1 by [0,-450,0] at 80 speed  signaling sig1  // cam  reaches centre restaurant
+wait for all clearing sig1
+
+animate entity guy18 performing action WALK by moving [0,-136,0] //signaling sig1  // barman moves to bottles
+//wait for all clearing sig1
+
+move entity cam1 by [0,-300,0] at 80 speed signaling sig1
+
+
+
+animate entity guy18 performing action WALK by moving [-32,0,0] 
+
+wait for all clearing sig1 // cam  continues to centre restaurant barman moves
+
+
+animate entity guy18 performing action STD_XALARMPUSH_N_A_N
+
+
+
+animate entity guy13 performing action WALK by moving [0,1000,0]  // couple guy walks
+
+
+
+
+
+animate entity guy3 performing action WALK by moving [0,-980,0]  // guy in restaurant left walks
+
+
+
+
+move entity null1 by [350,0,0] at 80 speed signaling sig1 // null moves toward centre group
+
+wait for all clearing sig1
+play sound "kb/kb/rdam_blank.wav" for entity cam1 at volume 1.0 // cam whistle stops
+
+unload sound "kb/kb/rdam_twisted_nerve.wav"  
+use entity woohoo   //   disco music
+
+move entity null1 by [400,0,0] at 80 speed  // null moves toward toilet
+
+
+
+
+
+animate entity guy18 performing action WALK by moving [22,0,0] // guy in bar moves away from bottles
+
+
+animate entity guy6 performing action STD_XDANCE_N_N_N repeating for 10 times  // group dances
+animate entity guy7 performing action STD_XDANCE_N_N_N repeating for 10 times   // group dances
+animate entity guy8 performing action STD_XDANCE_N_N_N repeating for 10 times   // group dances
+
+
+
+
+
+
+move entity null1 by [430,0,-30] at 80 speed // null moves to green corridor
+
+
+wait 1 seconds
+
+
+
+animate entity guy9 performing action STD_XDANCE_N_N_N repeating for 10 times  // girls dance
+wait 0.2 seconds
+animate entity guy10 performing action STD_XDANCE_N_N_N repeating for 10 times // girls dance
+wait 0.3 seconds
+animate entity guy11 performing action STD_XDANCE_N_N_N repeating for 10 times  // girls dance
+animate entity guy12 performing action STD_XDANCE_N_N_N repeating for 10 times  // girls dance
+
+wait 1 seconds
+
+animate entity guy4 performing action WALK by moving [0,135,0] signaling sig1 // guy walks to toilet
+wait for all clearing sig1
+
+animate entity guy4 performing action WALK by moving [250,0,0] //signaling sig1  // guy walks to toilet
+
+
+
+//wait for all clearing sig1
+
+animate entity guy4 performing action WALK by moving [30,-400,0]
+
+
+animate entity guy3 performing action WALK by moving [250,0,0]  // guy in restaurant left walks to toilet
+
+
+move entity cam1 by [0,-380,0] at 80 speed signaling sig1// cam continues down to stage and looks to toilet corr
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+wait for all clearing sig1
+
+move entity null1 by [400,0,0] at 80 speed // null conts to green corridor
+
+move entity cam1 by [690,0,-30] at 80 speed signaling sig1  // cam moves to green corridor
+wait for all clearing sig1
+
+////////////////////////////
+
+move entity null1 by [0,-60,0] at 80 speed // turns corner to toilet
+
+/////////////////////////////
+
+
+animate entity guy4 performing action WALK by moving [300,0,0]  // guy walks to kitchen
+
+
+
+move entity cam1 by [80,0,0] at 80 speed signaling sig1  // cam continues
+wait for all clearing sig1
+
+move entity null1 by [0,-450,0] at 800 speed // goes to toilet
+
+
+
+move entity cam1 by [70,-362,0] at 80 speed signaling sig1 // cam continues
+
+wait for all clearing sig1
+
+move entity null1 by [200,0,0] at 80 speed // turns corner in toilet to see woman
+
+move entity cam1 by [0,-200,0] at 80 speed signaling sig1 // cam continues and enters toilet to see woman
+
+wait for all clearing sig1
+
+use entity woohoo
+remove entity woohoo
+
+play sound "kb/kb/rdam_intro1_kill_bill.wav" for entity cam1 at volume 1.0 // crazy sound
+
+
+use entity toilet  // close door
+
+
+
+
+wait 10 seconds
+
+
+remove entity guy17
+
+remove entity guy2 // guy on disco floor
+
+remove entity guy3   //  left walker
+
+remove entity guy4  // toilet guy
+
+remove entity guy13  //  couple guy
+
+remove entity guy1  // couple in corridor
+
+remove entity guy16  //  couple in corridor
+
+use entity man1
+
+use entity cam1
+
+use entity wall1
+
+
+
+
+
+
+wait 0.2 seconds
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ 
+ 
+
+animate entity man1 performing action STD_FCORNERPEAK_RT_P_A targeting entity sneak
+wait 0.2 seconds
+
+animate entity man1 performing action STD_FCORNERPEAK_RT_P_A targeting entity sneak
+wait 0.2 seconds
+
+animate entity man1 performing action STD_XROLL_LT_A_A 
+
+animate entity man1 performing action STD_XROLL_LT_A_A 
+
+animate entity man1 performing action STD_F_FWD_P_2 repeating for 3 times targeting entity sneak
+
+wait 1 seconds
+
+animate entity man1 performing action SCRIPT_RELEASE
+
+
+reset ai for entity guy18
+
+
+animate entity guy18 performing action SCRIPT_RELEASE  // bottles guy in bar
+animate entity guy15 performing action SCRIPT_RELEASE  // barman1
+
+
+
+reset ai for entity guy14    // couple woman near stage
+
+animate entity guy14 performing action SCRIPT_RELEASE
+
+reset ai for entity guy6  //  dancers
+reset ai for entity guy7
+reset ai for entity guy8
+reset ai for entity guy9
+reset ai for entity guy10
+reset ai for entity guy11
+reset ai for entity guy12
+
+animate entity guy6 performing action SCRIPT_RELEASE
+animate entity guy7 performing action SCRIPT_RELEASE
+animate entity guy8 performing action SCRIPT_RELEASE
+animate entity guy9 performing action SCRIPT_RELEASE
+animate entity guy10 performing action SCRIPT_RELEASE
+animate entity guy11 performing action SCRIPT_RELEASE
+animate entity guy12 performing action SCRIPT_RELEASE
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+suspend    ///   cam over - ready to trigger action
+
+
+
+
+animate entity corner2guy1 performing action STD_FCORNERPEAK_RT_P_A targeting entity sneak
+animate entity corner2guy2 performing action STD_XROLL_LT_A_A 
+wait 0.2 seconds
+
+animate entity corner2guy1 performing action STD_FCORNERPEAK_RT_P_A targeting entity sneak
+
+animate entity corner2guy2 performing action STD_F_FWD_P_2 repeating for 3 times targeting entity sneak
+
+wait 0.2 seconds
+
+animate entity corner2guy1 performing action SCRIPT_RELEASE
+animate entity corner2guy2 performing action SCRIPT_RELEASE
+
+suspend
+
+//  movement to point combats
+
+use entity guy5  // guy by stage left
+use entity hench1  // guy by rest entrance
+use entity hench2 // guy by rest entrance
+use entity hench3  // guy by bar
+use entity hench4  // guy by bar
+
+animate entity hench1 performing action SCRIPT_RELEASE
+animate entity hench2 performing action SCRIPT_RELEASE
+animate entity hench3 performing action SCRIPT_RELEASE
+animate entity hench4 performing action SCRIPT_RELEASE
+animate entity hench5 performing action SCRIPT_RELEASE
+
+animate entity hench7 performing action SCRIPT_RELEASE // guy up
+wait 5 seconds
+animate entity hench6 performing action STD_JUPTO_N_A_A by moving [128,32,0]
+wait 0.5 seconds
+animate entity hench6 performing action SCRIPT_RELEASE  // guy up
+
+wait 5 seconds
+
+animate entity guy19 performing action STD_JUPTO_N_A_A by moving [128,32,0]
+wait 0.5 seconds
+animate entity guy19 performing action SCRIPT_RELEASE 
+
+
+
+exit

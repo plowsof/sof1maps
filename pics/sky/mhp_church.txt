@@ -1,0 +1,6 @@
+textures/sky/train_sides
+textures/sky/train_sides
+textures/sky/train_sides
+textures/sky/train_sides
+textures/sky/train_top
+textures/sky/mhp_church/schwarz

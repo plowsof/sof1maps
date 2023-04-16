@@ -1,0 +1,7 @@
+textures/customsky/warrem_rt
+textures/customsky/warrem_bk
+textures/customsky/warrem_lf
+textures/customsky/warrem_ft
+textures/customsky/warrem_up
+textures/customsky/warrem_dn
+

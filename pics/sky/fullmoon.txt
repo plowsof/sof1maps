@@ -1,0 +1,6 @@
+textures/customsky/fullmoonrt
+textures/customsky/fullmoonbk
+textures/customsky/fullmoonlf
+textures/customsky/fullmoonft
+textures/customsky/fullmoonup
+textures/customsky/fullmoondn

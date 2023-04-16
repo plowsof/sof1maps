@@ -1,0 +1,6 @@
+textures/customsky/swamp2rt
+textures/customsky/swamp2bk
+textures/customsky/swamp2lf
+textures/customsky/swamp2ft
+textures/customsky/swamp2up
+textures/customsky/swamp2dn

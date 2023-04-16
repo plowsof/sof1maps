@@ -1,0 +1,7 @@
+textures/sky/dusky3_rt
+textures/sky/dusky3_bk
+textures/sky/dusky3_lf
+textures/sky/dusky3_fr
+textures/sky/dusky3_up
+textures/sky/dusky3_dn
+

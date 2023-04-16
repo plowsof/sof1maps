@@ -1,0 +1,8 @@
+textures/sky/stars_side
+textures/sky/stars_side
+textures/sky/stars_side
+textures/sky/stars_side
+textures/sky/stars_side
+textures/sky/stars_side
+
+

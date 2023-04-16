@@ -1,0 +1,7 @@
+textures/customsky/sock-desert256_rt
+textures/customsky/sock-desert256_bk
+textures/customsky/sock-desert256_lf
+textures/customsky/sock-desert256_ft
+textures/customsky/sock-desert256_up
+textures/customsky/sock-desert256_dn
+

@@ -1,0 +1,7 @@
+textures/sky/westwoodrt
+textures/sky/westwoodbk
+textures/sky/westwoodlf
+textures/sky/westwoodft
+textures/sky/westwoodup
+textures/sky/westwooddn
+

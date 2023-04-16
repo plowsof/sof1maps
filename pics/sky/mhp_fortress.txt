@@ -1,0 +1,8 @@
+textures/sky/mhp_fortress/seite1
+textures/sky/mhp_fortress/seite1
+textures/sky/mhp_fortress/seite1
+textures/sky/mhp_fortress/seite1
+textures/sky/mhp_fortress/oben
+textures/sky/mhp_fortress/unten
+
+

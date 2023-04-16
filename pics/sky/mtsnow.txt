@@ -1,0 +1,7 @@
+textures/sky/mtsnow_rt
+textures/sky/mtsnow_bk
+textures/sky/mtsnow_lf
+textures/sky/mtsnow_fr
+textures/sky/mtsnow_up
+textures/sky/mtsnow_dn
+

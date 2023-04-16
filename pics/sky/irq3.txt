@@ -1,0 +1,7 @@
+textures/sky/irq_1
+textures/sky/irq_2
+textures/sky/irq_1
+textures/sky/irq_2
+textures/sky/irq_up
+textures/sky/irq_dn
+

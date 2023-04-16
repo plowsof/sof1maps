@@ -1,0 +1,7 @@
+textures/customsky/the-pirates_rt
+textures/customsky/the-pirates_bk
+textures/customsky/the-pirates_lf
+textures/customsky/the-pirates_ft
+textures/customsky/the-pirates_up
+textures/customsky/the-pirates_dn
+

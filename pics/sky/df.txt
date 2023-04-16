@@ -1,0 +1,7 @@
+textures/sky/dfrt
+textures/sky/dfbk
+textures/sky/dflf
+textures/sky/dffr
+textures/sky/dfup
+textures/sky/dfdn
+

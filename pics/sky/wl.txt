@@ -1,0 +1,6 @@
+textures/sky/wl_rt
+textures/sky/wl_bk
+textures/sky/wl_lf
+textures/sky/wl_fr
+textures/sky/wl_up
+

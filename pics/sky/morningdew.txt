@@ -1,0 +1,6 @@
+textures/customsky/morningdew512_rt
+textures/customsky/morningdew512_bk
+textures/customsky/morningdew512_lf
+textures/customsky/morningdew512_ft
+textures/customsky/morningdew512_up
+textures/customsky/morningdew512_dn

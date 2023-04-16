@@ -1,0 +1,7 @@
+textures/customsky/city1rt
+textures/customsky/city1bk
+textures/customsky/city1lf
+textures/customsky/city1ft
+textures/customsky/city1up
+textures/customsky/city1dn
+

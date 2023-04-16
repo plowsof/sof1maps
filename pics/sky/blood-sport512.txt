@@ -1,0 +1,7 @@
+textures/sky/blood-sport512_rt
+textures/sky/blood-sport512_bk
+textures/sky/blood-sport512_lf
+textures/sky/blood-sport512_ft
+textures/sky/blood-sport512_up
+textures/sky/blood-sport512_dn
+

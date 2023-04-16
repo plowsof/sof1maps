@@ -1,0 +1,7 @@
+textures/sky/mountain_rt
+textures/sky/mountain_bk
+textures/sky/mountain_lf
+textures/sky/mountain_ft
+textures/sky/mountain_up
+textures/sky/mountain_dn
+

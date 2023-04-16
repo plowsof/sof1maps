@@ -1,0 +1,7 @@
+textures/customsky/sb-desert256_rt
+textures/customsky/sb-desert256_bk
+textures/customsky/sb-desert256_lf
+textures/customsky/sb-desert256_ft
+textures/customsky/sb-desert256_up
+textures/customsky/sb-desert256_dn
+

@@ -1,0 +1,6 @@
+textures/customsky/oilrig_rt
+textures/customsky/oilrig_bk
+textures/customsky/oilrig_lf
+textures/customsky/oilrig_ft
+textures/customsky/oilrig_up
+textures/customsky/oilrig_dn

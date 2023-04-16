@@ -1,0 +1,6 @@
+textures/sky/seedy_fr
+textures/sky/seedy_rt
+textures/sky/seedy_bk
+textures/sky/seedy_lf
+textures/sky/seedy_up
+textures/sky/seedy_dn

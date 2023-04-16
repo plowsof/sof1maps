@@ -1,0 +1,8 @@
+textures/sky/wzs_side
+textures/sky/wzs_side
+textures/sky/wzs_side
+textures/sky/wzs_side
+textures/sky/wzs_up
+textures/sky/wzs_bottom
+
+
