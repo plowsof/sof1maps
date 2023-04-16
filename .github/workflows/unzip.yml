@@ -14,7 +14,7 @@ jobs:
       run: |
         find . -name "*.zip" -exec unzip -o -d . {} \;
         rm -rf dm bt exp test server-sp-sounds user-server
-        git add *
+        git add -A
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "codeberg"
         git commit -m "init"
