@@ -13,7 +13,7 @@ jobs:
     - name: Extract zipped files
       run: |
         find . -name "*.zip" -exec unzip -o -d . {} \;
-        rm -rf dm bt exp test server-sp-sounds user-server
+        rm -rf dm bt exp test server-sp-sounds user-server tgw
         git add -A
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "codeberg"
