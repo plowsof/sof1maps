@@ -12,10 +12,10 @@ jobs:
     - uses: actions/checkout@v3
     - name: Move folders with .os files
       run: |
-        source_dir="."
-        ds_dir="ds"
+        source_dir="/" # Root directory
+        ds_dir="ds/"   # Destination directory
 
-        # Get a list of all folders in the source directory (excluding the source directory itself)
+        # Get a list of all folders in the root directory (excluding the root directory itself)
         folders=$(find "$source_dir" -type d -maxdepth 1 -mindepth 1)
 
         # Loop through each folder
@@ -26,12 +26,12 @@ jobs:
             folder_name=$(basename "$folder")
 
             # Check if the folder already exists inside ds_dir
-            if [ -d "$ds_dir/$folder_name" ]; then
+            if [ -d "$ds_dir$folder_name" ]; then
               # Move the .os files inside the existing ds_dir/folder_name
-              mv "$folder"/*.os "$ds_dir/$folder_name/"
+              mv "$folder"/*.os "$ds_dir$folder_name/"
             else
               # Move the entire folder to ds_dir
-              mv "$folder" "$ds_dir/"
+              mv "$folder" "$ds_dir"
             fi
           fi
         done
