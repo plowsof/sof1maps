@@ -14,22 +14,29 @@ jobs:
       run: |
         #find . -name "*.zip" -exec unzip -o -d . {} \;
         #rm -rf dm bt exp test server-sp-sounds user-server tgw
+
         # Define the source directory as the current directory
         source_dir="."
 
-        # Define the destination directory as a "ds" folder in the current directory
-        dest_dir="./ds"
+        # Define the temporary destination directory
+        temp_dest_dir="./ds_temp"
 
         # Find folders containing files with "os" in their names in the source directory
         folders=$(find "$source_dir" -type f -name "*os*" -exec dirname {} \; | sort | uniq)
 
-        # Loop through the found folders and move them to the destination directory
+        # Loop through the found folders and move them to the temporary destination directory
         for folder in $folders; do
           echo "Moving folder: $folder"
-          mv "$folder" "$dest_dir/"
+          mv "$folder" "$temp_dest_dir/"
         done
 
-        echo "Folders containing 'os' files have been moved to $dest_dir."
+        echo "Folders containing 'os' files have been moved to $temp_dest_dir."
+
+        # Rename the temporary destination directory to the actual destination directory
+        mv "$temp_dest_dir" "./ds"
+
+        echo "Folders have been moved to ./ds/."
+
         git add -A
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "codeberg"
