@@ -12,12 +12,28 @@ jobs:
     - uses: actions/checkout@v3
     - name: Extract zipped files
       run: |
-        find . -name "*.zip" -exec unzip -o -d . {} \;
-        rm -rf dm bt exp test server-sp-sounds user-server tgw
+        #find . -name "*.zip" -exec unzip -o -d . {} \;
+        #rm -rf dm bt exp test server-sp-sounds user-server tgw
+        # Define the source directory as the current directory
+        source_dir="."
+
+        # Define the destination directory as a "ds" folder in the current directory
+        dest_dir="./ds"
+
+        # Find folders containing files with "os" in their names in the source directory
+        folders=$(find "$source_dir" -type f -name "*os*" -exec dirname {} \; | sort | uniq)
+
+        # Loop through the found folders and move them to the destination directory
+        for folder in $folders; do
+          echo "Moving folder: $folder"
+          mv "$folder" "$dest_dir/"
+        done
+
+        echo "Folders containing 'os' files have been moved to $dest_dir."
         git add -A
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "codeberg"
-        git commit -m "init"
+        git commit -m "move os dirs to ds folder"
     - name: Push changes to unzipped branch
       uses: ad-m/github-push-action@master
       with:
