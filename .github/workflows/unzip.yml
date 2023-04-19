@@ -13,12 +13,20 @@ jobs:
     - name: Move folders with .os files
       run: |
         cd ${{ github.workspace }}
-        find . -maxdepth 2 -type f -name "*.os" -exec sh -c '
-        for file do
-          folder=$(dirname "$file")
-          folder_name=$(basename "$folder")
-          echo "Moving folder $folder_name"
-          mv "$folder" ds/
+        find . -maxdepth 2 -type d -exec sh -c '
+        for folder do
+          if [ -z "$(find "$folder" -name "*.os" -type f)" ]; then
+            echo "No .os file found in $folder, skipping move operation."
+          else
+            folder_name=$(basename "$folder")
+            echo "Moving contents of folder $folder_name"
+            if [ ! -d "ds/track" ]; then
+              mv "$folder"/* ds/
+            else
+              echo "ds/track folder already exists, skipping move operation."
+            fi
+            break
+          fi
         done' sh {} +
     
     - name: Commit changes
