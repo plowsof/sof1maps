@@ -12,6 +12,7 @@ jobs:
     - uses: actions/checkout@v3
     - name: Move folders with .os files
       run: |
+        cd ${{ github.workspace }}
         find . -maxdepth 2 -type f -name "*.os" -exec sh -c '
         for file do
           folder=$(dirname "$file")
