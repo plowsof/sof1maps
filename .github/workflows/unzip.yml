@@ -12,22 +12,29 @@ jobs:
     - uses: actions/checkout@v3
     - name: Move folders with .os files
       run: |
-        cd ${{ github.workspace }}
-        find . -maxdepth 2 -type d -exec sh -c '
-        for folder do
-          if [ -z "$(find "$folder" -name "*.os" -type f)" ]; then
-            echo "No .os file found in $folder, skipping move operation."
-          else
+        source_dir="."
+        ds_dir="ds"
+
+        # Get a list of all folders in the source directory (excluding the source directory itself)
+        folders=$(find "$source_dir" -type d -maxdepth 1 -mindepth 1)
+
+        # Loop through each folder
+        for folder in $folders; do
+          # Check if the folder contains .os files
+          if [ "$(find "$folder" -name "*.os" -type f)" ]; then
+            # Extract the folder name without the full path
             folder_name=$(basename "$folder")
-            echo "Moving contents of folder $folder_name"
-            if [ ! -d "ds/track" ]; then
-              mv "$folder"/* ds/
+
+            # Check if the folder already exists inside ds_dir
+            if [ -d "$ds_dir/$folder_name" ]; then
+              # Move the .os files inside the existing ds_dir/folder_name
+              mv "$folder"/*.os "$ds_dir/$folder_name/"
             else
-              echo "ds/track folder already exists, skipping move operation."
+              # Move the entire folder to ds_dir
+              mv "$folder" "$ds_dir/"
             fi
-            break
           fi
-        done' sh {} +
+        done
     
     - name: Commit changes
       run: |
