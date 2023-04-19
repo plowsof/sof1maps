@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Find folders with .os files
+    - name: Move folders with .os files
       run: |
         find . -maxdepth 2 -type f -name "*.os" -exec sh -c '
         for file do
