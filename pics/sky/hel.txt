@@ -1,0 +1,7 @@
+textures/sky/warrock/hel_01
+textures/sky/warrock/hel_04
+textures/sky/warrock/hel_03
+textures/sky/warrock/hel_02
+textures/sky/warrock/hel_05
+textures/sky/warrock/hel_06
+textures/sky/warrock/hel_06
